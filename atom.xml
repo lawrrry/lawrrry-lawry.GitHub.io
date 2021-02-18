@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lawrrry.github.io/lawry.GitHub.io/</id>
-    <title>洛栗</title>
-    <updated>2021-02-18T09:52:26.369Z</updated>
+    <title>小洛</title>
+    <updated>2021-02-18T12:43:22.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lawrrry.github.io/lawry.GitHub.io/"/>
     <link rel="self" href="https://lawrrry.github.io/lawry.GitHub.io/atom.xml"/>
-    <subtitle>再怎么说,活着也是&quot;自己&quot;的事</subtitle>
+    <subtitle>&quot;我希望&quot;意味着:如果...,会不会很好.
+如果总是做正确的,安全的,多数人会做的决定,
+会泯然众人.
+要永远对不一样的生活抱有希望.</subtitle>
     <logo>https://lawrrry.github.io/lawry.GitHub.io/images/avatar.png</logo>
     <icon>https://lawrrry.github.io/lawry.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 洛栗</rights>
+    <rights>All rights reserved 2021, 小洛</rights>
     <entry>
         <title type="html"><![CDATA[为什么搞个博客]]></title>
         <id>https://lawrrry.github.io/lawry.GitHub.io/post/为什么搞个博客仔/</id>
